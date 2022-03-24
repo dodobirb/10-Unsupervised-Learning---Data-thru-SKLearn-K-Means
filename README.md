@@ -1,6 +1,7 @@
-#### FinTech Bootcamp - Module 10 Challenge
+# 10: Unsupervised Learning - Data thru SKLearn, K-Means 
+FinTech Boot Camp Module 10 Challenge
+
 ---
-# Crypto Portfolio Performance through K-Means Unsupervised Learning
 
 Competition in the cryptocurrency market is fierce, so I propose a novel approach to assembling crypto investment portfolios. Instead of basing analysis on just  returns and volatility, I have included other factors that might impact the crypto market—leading to better performance for your portfolio.
 
@@ -10,7 +11,7 @@ This is a prototype for submitting my crypto portfolio proposal to the *Company 
 
 ## Technologies
 
-This program was written in Python 3.9.4 using Windows OS. It is a Jupyter notebook, but was developed in VSCode.
+This program was written in Python 3.9.4 using a Windows 10 OS. It is a Jupyter notebook, but was developed in VSCode.
 
 Imports required:
 
@@ -35,12 +36,11 @@ The .csv file within *Starter_code* contains the price change data of the crypto
 
 ## Contributors
 
-
 Developed by E. Kenny, acting as "an advisor in one of the top five financial advisory firms in the world.", per assignment instructions. 
 
 [LinkedIn](www.linkedin.com/in/e-kenny)
 
-ekenny3@uncc.edu
+[Email](ekenny3@uncc.edu)
 
 ---
 
